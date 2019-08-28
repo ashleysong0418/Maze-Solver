@@ -28,4 +28,11 @@ The Maze Solver is a program created to take a maze from the server and "solve" 
 > use `make withGui` to compile Java GUI
 > Run with: ./client <number of avatars> <difficulty> moose.cs.dartmouth.edu
 > use `make clean` to clean up all compiled files 
+   
+   
+### Example Usage:
+Input: ./client 4 4 moose.cs.dartmouth.edu
+Output:
+![Terminal Output](https://github.com/ashleysong0418/Maze-Solver/blob/master/img/outcome.png)
+![GUI Output] (https://github.com/ashleysong0418/Maze-Solver/blob/master/img/GUI.jpg)
 
