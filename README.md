@@ -1,6 +1,7 @@
-# The Maze Challenge (CS50 Summer 2019)
-## Team name: ANON
-## Team members: Ashley Song, Kyle Bensink, Rylee Stone, Barrett Noone
+# The Maze Challenge
+
+## Overview: 
+The Maze Solver is a program created to take a maze from the server and "solve" it using an algorithm. Please read the DESIGN.md for further explanation on this project and its implementation. 
 
 ### Directory Structure:
 1. avatar.[ch]
@@ -18,7 +19,6 @@
 
 ### Assumptions:
 > The host will always be moose.cs.dartmouth.edu
-> The server will function as specified by the lab      description.
 
 ### Compiling and Running:
 > Download XQuartz terminal
@@ -29,7 +29,3 @@
 > Run with: ./client <number of avatars> <difficulty> moose.cs.dartmouth.edu
 > use `make clean` to clean up all compiled files 
 
-
-
-Powerpoint Link:
-https://docs.google.com/presentation/d/1PNrERQg7Q8XvmsDEZGxS1j3Ju7lLNg63yO4Iy0ShhgA/edit?usp=sharing
